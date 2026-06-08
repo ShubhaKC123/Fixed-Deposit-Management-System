@@ -1,0 +1,8 @@
+com\example\fdsystem\repository\FixedDepositRepository.class
+com\example\fdsystem\controller\AnalyticsController.class
+com\example\fdsystem\model\FixedDeposit.class
+com\example\fdsystem\repository\InterestRateConfigRepository.class
+com\example\fdsystem\model\User.class
+com\example\fdsystem\repository\UserRepository.class
+com\example\fdsystem\model\InterestRateConfig.class
+com\example\fdsystem\model\FixedDeposit$FDStatus.class
